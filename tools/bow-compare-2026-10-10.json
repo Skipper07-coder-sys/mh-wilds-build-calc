@@ -1,0 +1,114 @@
+{
+ "urls": {
+  "GOG": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;elementboostex;elementboostex;attackboostex;attackboostiii;attackboostii;gebonyhelmbeta;gogmaziosmailbeta;grathalosvambracesbeta;gogmazioscoilalpha;gogmaziosgreavesbeta;agitator;3;;;;;chargejeweliii;spreadjewel;dragonbandolierjwl;tenderizerjewel;physiquejewel;;tenderizerjewel;refreshjewel;;tenderizerjewel;refreshjewel;physiquejewel;refreshjewel;physiquejewel;physiquejewel;tenderizerjewel;flawlessjewel;physiquejewel;;;;elementfocus;gogmapocalypse;;2;2;2;2;2;?",
+  "GORE": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;elementboostex;elementboostex;attackboostex;attackboostex;attackboostiii;arkvulcanhelmgamma;gogmaziosmailbeta;grathalosvambracesbeta;gorecoilalpha;gogmaziosgreavesbeta;spreadpowershots;1;agitator;1;;;criticaljeweliii;expertjeweliii;dragonbandolierjwl;counterjewel;growthjewel;;challengerjewel;counterjewel;;counterattackjewel;counterjewel;sanejewel;chainjewel;physiquejewel;;tenderizerjewel;physiquejewel;physiquejewel;sanejewel;;;elementfocus;goremagalastyranny;;2;2;2;2;2;?",
+  "SPD": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;attackboostex;attackboostex;attackboostiii;attackboostiii;affinityboostex;arkvulcanhelmgamma;gogmaziosmailbeta;arkvulcanvambracesgamma;gorecoilalpha;gogmaziosgreavesalpha;agitator;3;;;;;spreadjewel;criticaljeweliii;dragonbandolierjwl;counterjewel;growthjewel;;challengerjewel;counterjewel;;physiquejewel;physiquejewel;;counterattackjewel;sanejewel;;chainjewel;counterjewel;sanejewel;;;;elementfocus;goremagalastyranny;lordssoul;2;2;2;2;2;?",
+  "MOB": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;attackboostex;attackboostex;attackboostiii;elementboostex;elementboostex;gebonyhelmbeta;gogmaziosmailbeta;grathalosvambracesbeta;gogmazioscoilalpha;gogmaziosgreavesalpha;agitator;2;;;;;dragonbandolierjwl;chargejeweliii;spreadjewel;tenderizerjewel;physiquejewel;;tenderizerjewel;refreshjewel;;tenderizerjewel;refreshjewel;physiquejewel;refreshjewel;physiquejewel;physiquejewel;challengerjewel;flawlessjewel;physiquejewel;;;;attackfocus;gogmapocalypse;;2;2;2;2;2;?",
+  "TIDUS1": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;elementboostex;elementboostex;attackboostex;attackboostiii;attackboostii;grathaloshelmbeta;gogmaziosmailbeta;gebonybracesbeta;gogmazioscoilalpha;gogmaziosgreavesbeta;agitator;3;;;;;chargejeweliii;spreadjewel;dragonbandolierjwl;tenderizerjewel;tenderizerjewel;;tenderizerjewel;refreshjewel;;tenderizerjewel;flawlessjewel;;refreshjewel;physiquejewel;physiquejewel;challengerjewel;flawlessjewel;physiquejewel;;;;elementfocus;gogmapocalypse;;2;2;2;2;2;?",
+  "TIDUS3": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;elementboostex;elementboostex;attackboostex;attackboostex;attackboostiii;sororalearringsalpha;gogmaziosmailbeta;grathalosvambracesbeta;dahaadshardcoilgamma;gogmaziosgreavesbeta;weaknessexploit;3;;;;;criticaljeweliii;spreadjewel;dragonbandolierjwl;tenderizerjewel;sanejewel;sanejewel;challengerjewel;counterjewel;;counterattackjewel;counterjewel;sanejewel;physiquejewel;;;counterattackjewel;counterjewel;physiquejewel;;;;elementfocus;goremagalastyranny;;2;2;2;2;2;?",
+  "OPT-GOG-free": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;attackboostex;attackboostex;elementboostex;elementboostex;attackboostiii;gebonyhelmbeta;gogmaziosmailbeta;grathalosvambracesbeta;gogmazioscoilalpha;gogmaziosgreavesbeta;weaknessexploit;3;;;;;dragonopenerjewel;spreadjewel;chargejeweliii;flawlessjewel;;;counterjewel;counterjewel;;tenderizerjewel;counterjewel;;furorjewel;;;flawlessjewel;furorjewel;;;;;elementfocus;gogmapocalypse;;2;2;2;2;2;?",
+  "OPT-GOG-floor": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;attackboostex;attackboostex;elementboostex;elementboostex;attackboostiii;gebonyhelmbeta;gogmaziosmailbeta;grathalosvambracesbeta;gogmazioscoilalpha;gogmaziosgreavesbeta;weaknessexploit;3;;;;;dragonopenerjewel;spreadjewel;chargejeweliii;flawlessjewel;physiquejewel;;counterjewel;refreshjewel;;tenderizerjewel;counterjewel;physiquejewel;refreshjewel;physiquejewel;physiquejewel;flawlessjewel;refreshjewel;physiquejewel;;;;elementfocus;gogmapocalypse;;2;2;2;2;2;?",
+  "OPT-GORE-free": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;elementboostex;elementboostex;attackboostex;attackboostex;attackboostiii;arkvulcanhelmgamma;gogmaziosmailbeta;grathalosvambracesbeta;gorecoilbeta;gogmaziosgreavesbeta;spreadpowershots;1;agitator;1;;;dragonopenerjewel;openerjewelii;chargejeweliii;flawlessjewel;sanejewel;;tenderizerjewel;flawlessjewel;;chainjewel;flawlessjewel;sanejewel;flayerjewel;counterjewel;;counterjewel;counterjewel;sanejewel;;;;elementfocus;goremagalastyranny;;2;2;2;2;2;?",
+  "OPT-GORE-floor": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;elementboostex;elementboostex;attackboostex;attackboostex;attackboostiii;arkvulcanhelmgamma;gogmaziosmailbeta;grathalosvambracesbeta;gogmazioscoilalpha;gogmaziosgreavesbeta;spreadpowershots;1;agitator;1;;;dragonopenerjewel;openerjewelii;chargejeweliii;refreshjewel;physiquejewel;;counterjewel;counterjewel;;tenderizerjewel;flawlessjewel;physiquejewel;refreshjewel;physiquejewel;physiquejewel;flawlessjewel;refreshjewel;physiquejewel;;;;elementfocus;ebonyodogaronspower;;2;2;2;2;2;?",
+  "OPT-SPD-free": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;attackboostex;attackboostex;attackboostiii;attackboostiii;attackboostiii;arkvulcanhelmgamma;gogmaziosmailbeta;arkvulcanvambracesgamma;gogmazioscoilalpha;gogmaziosgreavesalpha;latentpower;3;;;;;openerdragonjewel;criticaljeweliii;spreadjewel;flawlessjewel;;;throttlejewel;counterjewel;;;;;counterjewel;;;throttlejewel;flawlessjewel;;;;;elementfocus;rathalossflare;lordssoul;2;2;2;2;2;?",
+  "OPT-SPD-floor": "https://www.mathhunter.ca/bow.html?id=calamitousangel;dragonattackinfusion;dragonattackinfusion;dragonattackinfusion;attackboostex;attackboostex;attackboostiii;attackboostiii;attackboostiii;arkvulcanhelmgamma;gogmaziosmailbeta;arkvulcanvambracesgamma;gogmazioscoilalpha;gogmaziosgreavesalpha;latentpower;3;;;;;dragonopenerjewel;criticaljeweliii;spreadjewel;refreshjewel;physiquejewel;;throttlejewel;counterjewel;;physiquejewel;;;refreshjewel;physiquejewel;physiquejewel;throttlejewel;refreshjewel;physiquejewel;;;;elementfocus;rathalossflare;lordssoul;2;2;2;2;2;?"
+ },
+ "rows": {
+  "GOG": {
+   "real": 448.32,
+   "full": 486.0,
+   "pess": 427.96999999999997,
+   "gore100": 500.8,
+   "con": 5,
+   "ss": 3
+  },
+  "GORE": {
+   "real": 451.43,
+   "full": 517.76,
+   "pess": 424.21999999999997,
+   "gore100": 516.9,
+   "con": 5,
+   "ss": 0
+  },
+  "SPD": {
+   "real": 455.6,
+   "full": 531.13,
+   "pess": 423.88,
+   "gore100": 514.1,
+   "con": 4,
+   "ss": 0
+  },
+  "MOB": {
+   "real": 444.82,
+   "full": 478.55,
+   "pess": 425.05,
+   "gore100": 490.3,
+   "con": 5,
+   "ss": 3
+  },
+  "TIDUS1": {
+   "real": 453.36,
+   "full": 496.98,
+   "pess": 430.82,
+   "gore100": 509.9,
+   "con": 3,
+   "ss": 2
+  },
+  "TIDUS3": {
+   "real": 454.46999999999997,
+   "full": 530.13,
+   "pess": 421.78999999999996,
+   "gore100": 527.9,
+   "con": 2,
+   "ss": 0
+  },
+  "OPT-GOG-free": {
+   "real": 466.98,
+   "full": 525.26,
+   "pess": 442.55,
+   "gore100": 536.8,
+   "con": 0,
+   "ss": 0
+  },
+  "OPT-GOG-floor": {
+   "real": 460.11,
+   "full": 502.16999999999996,
+   "pess": 440.34,
+   "gore100": 515.7,
+   "con": 5,
+   "ss": 3
+  },
+  "OPT-GORE-free": {
+   "real": 467.88,
+   "full": 527.1600000000001,
+   "pess": 440.32,
+   "gore100": 531.4,
+   "con": 2,
+   "ss": 0
+  },
+  "OPT-GORE-floor": {
+   "real": 461.15,
+   "full": 501.5,
+   "pess": 440.95,
+   "gore100": 507.6,
+   "con": 5,
+   "ss": 3
+  },
+  "OPT-SPD-free": {
+   "real": 481.86,
+   "full": 552.78,
+   "pess": 448.89,
+   "gore100": 535.0,
+   "con": 0,
+   "ss": 0
+  },
+  "OPT-SPD-floor": {
+   "real": 467.43999999999994,
+   "full": 529.8399999999999,
+   "pess": 439.05,
+   "gore100": 519.9,
+   "con": 5,
+   "ss": 3
+  }
+ }
+}
